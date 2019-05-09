@@ -1,0 +1,1 @@
+# essex-service-pattern-library
